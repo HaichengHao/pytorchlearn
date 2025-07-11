@@ -1,0 +1,18 @@
+# Python & PyTorch 忽略项
+*.pyc
+__pycache__
+*.pth
+*.pt
+*.ckpt
+*.DS_Store
+.ipynb_checkpoints
+*.log
+*.tmp
+
+# 忽略特定的大模型文件（你这次的问题文件）
+01计算机视觉基础/models/model_weights_NetwithBNandDO.pth
+
+# 虚拟环境
+env/
+venv/
+__pypackages__/
