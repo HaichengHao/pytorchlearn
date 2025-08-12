@@ -12,6 +12,8 @@ __pycache__
 # 忽略特定的大模型文件（你这次的问题文件）
 01计算机视觉基础/models/model_weights_NetwithBNandDO.pth
 04现代网络架构/birds
+05图像定位与分割/Oxford-IIIT Pets Dataset
+06图像的语义分割/HKdataset
 # 虚拟环境
 env/
 venv/
